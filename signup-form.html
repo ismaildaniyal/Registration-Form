@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rigistration Form</title>
+    <link rel="stylesheet" href="signup-form.css">
 </head>
 <body>
     <div class="topnav">
@@ -17,13 +18,15 @@
       <input type="text" placeholder="Father Name" required>
         <input type="text" placeholder="Username" required>
         <input type="text" placeholder="Address" required>
-        <input type="number" placeholder="Age" required>
-        <input type="password" placeholder="Password" required pattern="[a-z]">
-        <input type="email" placeholder="Email" required>
+        <input type="number" id="Age" placeholder="Age" required>
+        <input type="password" id="password" placeholder="Password" required>
+        <input type="email" id="email" placeholder="Email" required>
         <input type="number" placeholder="Phone" required>
-      <button type="submit">Register</button>
+        <button type="submit" onclick="validateSignUp()">Register</button>
     </form>
   </div>
 </form>
+
 </body>
+<script src="form.js"></script>
 </html>
