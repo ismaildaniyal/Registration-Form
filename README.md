@@ -45,10 +45,7 @@ This project demonstrates the implementation of **HTML forms** for Sign-In and S
 ## 🖥️ Tech Stack
 - **Frontend**: HTML, CSS, JavaScript
 - **Validation**: Regex-powered JavaScript
-
-## 🌐 Portfolio
-Check out my portfolio for more projects and information: [Portfolio](https://ismaildaniyal.github.io/Portfolio_Ismail/)
-
+- 
 ## 🤝 Contributing
 Contributions are welcome to enhance the project! To contribute:
 
@@ -72,7 +69,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📧 Contact
 For any inquiries or feedback, please feel free to contact us:
-- **Email**: yourname@example.com
+- **Email**: ismailsarfraz9345@gmail.com
 - **GitHub**: [IsmailDaniyal](https://github.com/ismaildaniyal)
 
 ---
